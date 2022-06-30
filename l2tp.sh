@@ -395,8 +395,8 @@ noccp
 auth
 hide-password
 idle 1800
-mtu 1460
-mru 1460
+mtu 1440
+mru 1440
 nodefaultroute
 debug
 proxyarp
